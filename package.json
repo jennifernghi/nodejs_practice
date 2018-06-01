@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_practice",
+  "version": "1.0.0",
+  "description": "practice nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('this is nodejs practice project');"
+  },
+  "author": "jennifernghinguyen",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
+}
